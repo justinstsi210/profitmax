@@ -1,5 +1,3 @@
-# profitmax
-ProfitMax - Innovative Business Solutions
 <!DOCTYPE html>
 <html lang="en">
 <head>
